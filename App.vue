@@ -14,7 +14,7 @@
     >
       <div class="screen">
         <header v-if="isEnlarge" ref="header">
-          <div class="title">陕西省一网通管系统</div>
+          <div class="title">陕西省sssss一网通管系统</div>
           <commonNav></commonNav>
         </header>
         <enlargeNarrow></enlargeNarrow>
